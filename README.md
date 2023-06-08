@@ -1,2 +1,2 @@
-# Churn-classification
-Churn-classification using Logistic Regression
+# Churn-modelling
+Churn-modelling using Logistic Regression
