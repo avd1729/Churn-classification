@@ -34,9 +34,7 @@ Here's an overview of the key components and concepts in logistic regression:
 
 6. Model Training: Logistic regression models are trained by optimizing the parameters using algorithms like gradient descent or Newton's method to minimize a cost function, such as the negative log-likelihood or cross-entropy loss.
 
-7. Decision Boundary: The decision boundary is a threshold value that determines the classification outcome based on the predicted probabilities. If the predicted probability exceeds the threshold, the instance is classified as one class; otherwise, it is classified as the other class
-
-.
+7. Decision Boundary: The decision boundary is a threshold value that determines the classification outcome based on the predicted probabilities. If the predicted probability exceeds the threshold, the instance is classified as one class; otherwise, it is classified as the other class.
 
 8. Regularization: To prevent overfitting and improve generalization, logistic regression models can be regularized using techniques like L1 regularization (Lasso) or L2 regularization (Ridge). Regularization helps control the complexity of the model by adding a penalty term to the cost function.
 
